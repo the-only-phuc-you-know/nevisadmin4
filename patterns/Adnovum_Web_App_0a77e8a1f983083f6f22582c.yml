@@ -1,0 +1,12 @@
+schemaVersion: "1.0"
+pattern:
+  id: "0a77e8a1f983083f6f22582c"
+  className: "ch.nevis.admin.v4.plugin.nevisproxy.patterns.WebApplicationAccess"
+  name: "Adnovum Web App"
+  properties:
+    host:
+    - "pattern://5ce8c5b2cf9fc4884ddb6c7d"
+    path: "/adnovum-web/"
+    backends: "https://www.adnovum.com/"
+    truststore:
+    - "pattern://6a09721512e43b8844781a0d"

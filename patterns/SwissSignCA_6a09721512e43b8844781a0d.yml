@@ -1,0 +1,7 @@
+schemaVersion: "1.0"
+pattern:
+  id: "6a09721512e43b8844781a0d"
+  className: "ch.nevis.admin.v4.plugin.nevisproxy.patterns.PemTrustStoreProvider"
+  name: "SwissSignCA"
+  properties:
+    truststoreFile: "res://6a09721512e43b8844781a0d#truststoreFile"

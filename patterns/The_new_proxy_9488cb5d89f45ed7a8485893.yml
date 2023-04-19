@@ -1,0 +1,8 @@
+schemaVersion: "1.0"
+pattern:
+  id: "9488cb5d89f45ed7a8485893"
+  className: "ch.nevis.admin.v4.plugin.nevisproxy.patterns.NevisProxyDeployable"
+  name: "The new proxy"
+  deploymentHosts: "phuc-proxy"
+  properties:
+    instanceName: "the-new-proxy"

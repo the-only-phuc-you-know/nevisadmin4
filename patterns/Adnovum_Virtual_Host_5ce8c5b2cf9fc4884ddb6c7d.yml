@@ -1,0 +1,9 @@
+schemaVersion: "1.0"
+pattern:
+  id: "5ce8c5b2cf9fc4884ddb6c7d"
+  className: "ch.nevis.admin.v4.plugin.nevisproxy.patterns.HostContext"
+  name: "Adnovum Virtual Host"
+  properties:
+    proxy:
+    - "pattern://9488cb5d89f45ed7a8485893"
+    addresses: "http://nomura-nevis.adnovum.vn"

@@ -1,0 +1,12 @@
+schemaVersion: "1.0"
+bundles:
+- "nevisadmin-plugin-authcloud:4.18.0.24"
+- "nevisadmin-plugin-nevisdetect:4.18.0.24"
+- "nevisadmin-plugin-nevisidm:4.18.0.24"
+- "nevisadmin-plugin-nevisproxy:4.18.0.24"
+- "nevisadmin-plugin-nevisdp:4.18.0.24"
+- "nevisadmin-plugin-oauth:4.18.0.24"
+- "nevisadmin-plugin-base-generation:4.18.0.24"
+- "nevisadmin-plugin-mobile-auth:4.18.0.24"
+- "nevisadmin-plugin-nevisauth:4.18.0.24"
+- "nevisadmin-plugin-fido2:4.18.0.24"
